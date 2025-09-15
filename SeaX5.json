@@ -1,0 +1,310 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.seax2": {
+			"loop": true,
+			"animation_length": 3,
+			"bones": {
+				"waist": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.seaxx"],
+						"1.5": [-2.5, "variable.seaxx", "variable.seaxx"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.seaxx"]
+					}
+				},
+				"head": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.rot"],
+						"1.5": [2.5, "variable.seaxx", "variable.rot"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.rot"]
+					}
+				},
+				"HairSea": {
+					"rotation": {
+						"0.0": ["variable.x *-1", "variable.seaxx", "variable.seaxx"],
+						"1.25": ["(variable.x + -2.5)*-1", "variable.seaxx", -2.5],
+						"3.0": ["variable.x*-1", "variable.seaxx", "variable.seaxx"]
+					}
+				},
+				"Muha": {
+					"rotation": ["variable.x + variable.start + variable.sn", "variable.seaxx", "variable.seazz"]
+				},
+				"seamuww1": {
+					"rotation": ["variable.flap * math.cos(0 -variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww2": {
+					"rotation": ["variable.flap * math.cos(22 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww3": {
+					"rotation": ["variable.flap * math.cos(50 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww4": {
+					"rotation": ["variable.flap * math.cos(76 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww5": {
+					"rotation": ["variable.flap * math.cos(100 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww6": {
+					"rotation": ["variable.flap * math.cos(122 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww7": {
+					"rotation": ["variable.flap * math.cos(142 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww8": {
+					"rotation": ["variable.flap * math.cos(160 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww9": {
+					"rotation": ["variable.flap * math.cos(176 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww10": {
+					"rotation": ["variable.flap * math.cos(190 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww11": {
+					"rotation": ["variable.flap * math.cos(202 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww12": {
+					"rotation": ["variable.flap * math.cos(212 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww13": {
+					"rotation": ["variable.flap * math.cos(220 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww14": {
+					"rotation": ["variable.flap * math.cos(226 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww15": {
+					"rotation": ["variable.flap * math.cos(230 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww16": {
+					"rotation": ["variable.flap * math.cos(232 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww17": {
+					"rotation": ["variable.flap * math.cos(232 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww18": {
+					"rotation": ["variable.flap * math.cos(230 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww19": {
+					"rotation": ["variable.flap * math.cos(226 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww20": {
+					"rotation": ["variable.flap * math.cos(220 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww21": {
+					"rotation": ["variable.flap * math.cos(212 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww22": {
+					"rotation": ["variable.flap * math.cos(202 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww23": {
+					"rotation": ["variable.flap * math.cos(190 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww24": {
+					"rotation": ["variable.flap * math.cos(176 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"seamuww25": {
+					"rotation": ["variable.flap * math.cos(158 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+				},
+				"Eye": {
+					"scale": {
+						"0.0": [1, "variable.seaxx", 1],
+						"1.0": [1, "variable.seaxx", 1],
+						"1.25": [1, 1, 1],
+						"1.5": [1, "variable.seaxx", 1],
+						"3.0": [1, "variable.seaxx", 1]
+					}
+				},
+				"Right_hairSea0": {
+					"rotation": {
+						"0.0": {
+							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"Right_hairSea1": {
+					"rotation": {
+						"0.0": {
+							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"Right_hairSea2": {
+					"rotation": {
+						"0.0": {
+							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"Right_hairSea3": {
+					"rotation": {
+						"0.0": {
+							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"Right_hairSea4": {
+					"rotation": {
+						"0.0": {
+							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"Right_hairSea5": {
+					"rotation": {
+						"0.0": {
+							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"Left_hairSea0": {
+					"rotation": {
+						"0.0": {
+							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"Left_hairSea1": {
+					"rotation": {
+						"0.0": {
+							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"Left_hairSea2": {
+					"rotation": {
+						"0.0": {
+							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"Left_hairSea3": {
+					"rotation": {
+						"0.0": {
+							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"Left_hairSea4": {
+					"rotation": {
+						"0.0": {
+							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"Left_hairSea5": {
+					"rotation": {
+						"0.0": {
+							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"EyeX2": {
+					"position": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.0": {
+							"post": [0, -0.125, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.25": {
+							"post": [0, -0.75, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.5": {
+							"post": [0, -0.125, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"3.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"Eyeright": {
+					"position": ["variable.eyeright", 0, 0],
+					"scale": {
+						"0.0": [1, 1, 1],
+						"0.8": [1, 1, 1],
+						"1.0": [0.9, 0.7, 1],
+						"1.3": [1, 1, 1],
+						"3.0": [1, 1, 1]
+					}
+				},
+				"Eyeleft": {
+					"position": ["variable.eyeleft", 0, 0],
+					"scale": {
+						"0.0": [1, 1, 1],
+						"0.8": [1, 1, 1],
+						"1.0": [0.9, 0.7, 1],
+						"1.3": [1, 1, 1],
+						"3.0": [1, 1, 1]
+					}
+				},
+				"Boob": {
+					"rotation": ["variable.bb", "variable.seaxx", "variable.seaxx"]
+				},
+				"Right_hairSea6": {
+					"rotation": {
+						"0.0": {
+							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"Right_hairSea7": {
+					"rotation": {
+						"0.0": {
+							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"Right_hairSea8": {
+					"rotation": {
+						"0.0": {
+							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"Left_hairSea6": {
+					"rotation": {
+						"0.0": {
+							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"Left_hairSea7": {
+					"rotation": {
+						"0.0": {
+							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"Left_hairSea8": {
+					"rotation": {
+						"0.0": {
+							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				}
+			}
+		}
+	}
+}
