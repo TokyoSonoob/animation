@@ -254,7 +254,8 @@
 					}
 				},
 				"Boob": {
-					"rotation": ["variable.bb", "variable.seaxx", "variable.seaxx"]
+					"rotation": ["variable.bb", "variable.seaxx", "variable.seaxx"],
+					"position": [0, "-variable.bb*0.08", 0]
 				},
 				"Right_hairSea6": {
 					"rotation": {
