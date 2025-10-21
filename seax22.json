@@ -19,6 +19,13 @@
 						"3.0": ["variable.seaxx", "variable.seaxx", "variable.rot"]
 					}
 				},
+				"headx": {
+					"rotation": {
+						"0.0": ["variable.tt", "variable.t", "variable.rot"],
+						"1.5": ["variable.tt", "variable.t", "variable.rot"],
+						"3.0": ["variable.tt", "variable.t", "variable.rot"]
+					}
+				},
 				"HairSea": {
 					"rotation": {
 						"0.0": ["variable.x *-1", "variable.seaxx", "variable.seaxx"],
