@@ -19,6 +19,9 @@
 						"3.0": ["variable.seaxx", "variable.seaxx", "variable.rot"]
 					}
 				},
+				"Eyess": {
+					"position": [0, "variable.ee", 0]
+				},
 				"headx": {
 					"rotation": {
 						"0.0": ["variable.tt", "variable.t", "variable.rot"],
