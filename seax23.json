@@ -26,6 +26,16 @@
 						"3.0": ["variable.tt", "variable.t", "variable.rot"]
 					}
 				},
+				"HairSeax": {
+					"rotation": {
+						"0.0": ["-math.clamp(variable.x,-45,30)+variable.sn", "variable.seaxx", "variable.seaxx"],
+						"1.25": ["-math.clamp(variable.x,-45,30)+variable.sn", "variable.seaxx", -2.5],
+						"3.0": ["-math.clamp(variable.x,-45,30)+variable.sn", "variable.seaxx", "variable.seaxx"]
+					}
+				},
+				"Muhax": {
+					"rotation": ["math.clamp(variable.x,-45,30) + variable.start + variable.sn", "variable.seaxx", "variable.seazz"]
+				},
 				"HairSea": {
 					"rotation": {
 						"0.0": ["variable.x *-1", "variable.seaxx", "variable.seaxx"],
