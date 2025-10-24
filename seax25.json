@@ -123,11 +123,11 @@
 				},
 				"Eye": {
 					"scale": {
-						"0.0": [1, "variable.seaxx", 1],
-						"1.0": [1, "variable.seaxx", 1],
-						"1.25": [1, 1, 1],
-						"1.5": [1, "variable.seaxx", 1],
-						"3.0": [1, "variable.seaxx", 1]
+						"0.0": [1, "math.clamp(-variable.e,0,0.75)", 1],
+						"1.0": [1, "math.clamp(-variable.e,0,0.75)", 1],
+						"1.25": [1, "math.clamp(-variable.e+1,0,0.75)", 1],
+						"1.5": [1, "math.clamp(-variable.e,0,0.75)", 1],
+						"3.0": [1, "math.clamp(-variable.e,0,0.75)", 1]
 					}
 				},
 				"Right_hairSea0": {
