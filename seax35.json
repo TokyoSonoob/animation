@@ -22,6 +22,315 @@
 				"Eyess": {
 					"position": [0, "variable.ee", 0]
 				},
+				"Ad": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Ad1": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Ad2": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Ad3": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Ad4": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Ad5": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Ad6": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Ad7": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Ad8": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Ad9": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Ad10": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Re": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+				"Re1": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+				"Re2": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+				"Re3": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+				"Re4": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+				"Re5": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+				"Re6": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+				"Re7": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+				"Re8": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+				"Re9": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+				"Re10": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom+10"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+
+				"Adx": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Ad1x": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Ad2x": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Ad3x": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Ad4x": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Ad5x": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Ad6x": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Ad7x": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Ad8x": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Ad9x": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Ad10x": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
+					}
+				},
+				"Rex": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+				"Re1x": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+				"Re2x": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+				"Re3x": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+				"Re4x": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+				"Re5x": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+				"Re6x": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+				"Re7x": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+				"Re8x": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+				"Re9x": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
+				"Re10x": {
+					"rotation": {
+						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
+						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
+					}
+				},
 				"headx": {
 					"rotation": {
 						"0.0": ["variable.tt", "variable.t", "variable.rot"],
