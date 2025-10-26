@@ -346,7 +346,7 @@
 					}
 				},
 				"Muhax": {
-					"rotation": ["math.clamp(variable.x,-45,30) + variable.start + variable.sn", "variable.seaxx", "variable.seazz"]
+					"rotation": ["math.clamp(variable.x,-45,30) + variable.start + variable.snz", "variable.seaxx", "variable.seazz"]
 				},
 				"HairSea": {
 					"rotation": {
