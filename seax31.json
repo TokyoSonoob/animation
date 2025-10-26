@@ -356,7 +356,7 @@
 					}
 				},
 				"Muha": {
-					"rotation": ["variable.x + variable.start + variable.sn", "variable.seaxx", "variable.seazz"]
+					"rotation": ["variable.x + variable.start + variable.snz", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww1": {
 					"rotation": ["variable.flap * math.cos(0 -variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
