@@ -355,9 +355,9 @@
 				},
 				"HairSea": {
 					"rotation": {
-						"0.0": ["(variable.x *-1)+variable.for", "variable.seaxx", "-variable.rot"],
-						"1.5": ["(-(-variable.x *-1) +2.5)+variable.for", "variable.seaxx", "-variable.rot"],
-						"3.0": ["(variable.x*-1)+variable.for", "variable.seaxx", "-variable.rot"]
+						"0.0": ["(variable.x *-1)", "variable.seaxx", "-variable.rot"],
+						"1.5": ["(-(-variable.x *-1) +2.5)", "variable.seaxx", "-variable.rot"],
+						"3.0": ["(variable.x*-1)", "variable.seaxx", "-variable.rot"]
 					},
 					"position": [0, "math.abs(variable.rot/20)", "math.abs(variable.rot/30)"]
 				},
