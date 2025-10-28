@@ -347,9 +347,9 @@
 				},
 				"Muhax": {
 					"rotation": {
-						"0.0": ["math.clamp(variable.x,-45,30) + variable.start + variable.sn", "variable.seaxx", "variable.rot"],
-						"1.5": ["math.clamp(variable.x,-45,30) + variable.start + variable.sn +2.5", "variable.seaxx", "variable.rot"],
-						"3.0": ["math.clamp(variable.x,-45,30) + variable.start + variable.sn", "variable.seaxx", "variable.rot"]
+						"0.0": ["math.clamp(variable.x,-45,30) + variable.start + variable.sn", "variable.seaxx", "-variable.rot"],
+						"1.5": ["math.clamp(variable.x,-45,30) + variable.start + variable.sn +2.5", "variable.seaxx", "-variable.rot"],
+						"3.0": ["math.clamp(variable.x,-45,30) + variable.start + variable.sn", "variable.seaxx", "-variable.rot"]
 					},
 					"position": [0, "math.abs(variable.rot/20)", "-math.abs(variable.rot/30)"]
 				},
@@ -370,79 +370,79 @@
 					"position": [0, "math.abs(variable.rot/20)", "-math.abs(variable.rot/30)"]
 				},
 				"seamuww1": {
-					"rotation": ["variable.flap * math.cos(0 -variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(0 -variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww2": {
-					"rotation": ["variable.flap * math.cos(22 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(22 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww3": {
-					"rotation": ["variable.flap * math.cos(50 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(50 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww4": {
-					"rotation": ["variable.flap * math.cos(76 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(76 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww5": {
-					"rotation": ["variable.flap * math.cos(100 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(100 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww6": {
-					"rotation": ["variable.flap * math.cos(122 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(122 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww7": {
-					"rotation": ["variable.flap * math.cos(142 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(142 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww8": {
-					"rotation": ["variable.flap * math.cos(160 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(160 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww9": {
-					"rotation": ["variable.flap * math.cos(176 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(176 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww10": {
-					"rotation": ["variable.flap * math.cos(190 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(190 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww11": {
-					"rotation": ["variable.flap * math.cos(202 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(202 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww12": {
-					"rotation": ["variable.flap * math.cos(212 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(212 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww13": {
-					"rotation": ["variable.flap * math.cos(220 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(220 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww14": {
-					"rotation": ["variable.flap * math.cos(226 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(226 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww15": {
-					"rotation": ["variable.flap * math.cos(230 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(230 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww16": {
-					"rotation": ["variable.flap * math.cos(232 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(232 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww17": {
-					"rotation": ["variable.flap * math.cos(232 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(232 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww18": {
-					"rotation": ["variable.flap * math.cos(230 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(230 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww19": {
-					"rotation": ["variable.flap * math.cos(226 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(226 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww20": {
-					"rotation": ["variable.flap * math.cos(220 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(220 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww21": {
-					"rotation": ["variable.flap * math.cos(212 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(212 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww22": {
-					"rotation": ["variable.flap * math.cos(202 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(202 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww23": {
-					"rotation": ["variable.flap * math.cos(190 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(190 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww24": {
-					"rotation": ["variable.flap * math.cos(176 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(176 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"seamuww25": {
-					"rotation": ["variable.flap * math.cos(158 - variable.flap2) * variable.xx", "variable.seaxx", "variable.reseazz"]
+					"rotation": ["variable.flap * math.cos(158 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
 				"Eye": {
 					"scale": {
@@ -465,7 +465,7 @@
 				"Right_hairSea0": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -473,7 +473,7 @@
 				"Right_hairSea1": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -481,7 +481,7 @@
 				"Right_hairSea2": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -489,7 +489,7 @@
 				"Right_hairSea3": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -497,7 +497,7 @@
 				"Right_hairSea4": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -505,7 +505,7 @@
 				"Right_hairSea5": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -513,7 +513,7 @@
 				"Right_hairSea6": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -521,7 +521,7 @@
 				"Right_hairSea7": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -529,7 +529,7 @@
 				"Right_hairSea8": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -537,7 +537,7 @@
 				"Right_hairSea9": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -545,7 +545,7 @@
 				"Right_hairSea10": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -553,7 +553,7 @@
 				"Right_hairSea11": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -561,7 +561,7 @@
 				"Right_hairSea12": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -569,7 +569,7 @@
 				"Right_hairSea13": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -577,7 +577,7 @@
 				"Right_hairSea14": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -585,7 +585,7 @@
 				"Right_hairSea15": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -593,7 +593,7 @@
 				"Right_hairSea16": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -601,7 +601,7 @@
 				"Right_hairSea17": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -609,7 +609,7 @@
 				"Left_hairSea0": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -617,7 +617,7 @@
 				"Left_hairSea1": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -625,7 +625,7 @@
 				"Left_hairSea2": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -633,7 +633,7 @@
 				"Left_hairSea3": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -641,7 +641,7 @@
 				"Left_hairSea4": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -649,7 +649,7 @@
 				"Left_hairSea5": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -657,7 +657,7 @@
 				"Left_hairSea6": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -665,7 +665,7 @@
 				"Left_hairSea7": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -673,7 +673,7 @@
 				"Left_hairSea8": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -681,7 +681,7 @@
 				"Left_hairSea9": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -689,7 +689,7 @@
 				"Left_hairSea10": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -697,7 +697,7 @@
 				"Left_hairSea11": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -705,7 +705,7 @@
 				"Left_hairSea12": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -713,7 +713,7 @@
 				"Left_hairSea13": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -721,7 +721,7 @@
 				"Left_hairSea14": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -729,7 +729,7 @@
 				"Left_hairSea15": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -737,7 +737,7 @@
 				"Left_hairSea16": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
@@ -745,7 +745,7 @@
 				"Left_hairSea17": {
 					"rotation": {
 						"0.0": {
-							"post": ["variable.seaxx", "variable.seaxx", "variable.reseazzz"],
+							"post": ["variable.seaxx", "variable.seaxx", "variable.seazz"],
 							"lerp_mode": "catmullrom"
 						}
 					}
