@@ -438,12 +438,6 @@
 				"seamuww23": {
 					"rotation": ["variable.flap * math.cos(190 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
 				},
-				"seamuww24": {
-					"rotation": ["variable.flap * math.cos(176 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
-				},
-				"seamuww25": {
-					"rotation": ["variable.flap * math.cos(158 - variable.flap2) * variable.xx", "variable.seaxx", "variable.seazz"]
-				},
 				"Eye": {
 					"scale": {
 						"0.0": [1, 0, 1],
@@ -789,9 +783,387 @@
 					}
 				},
 				"Boob": {
-					"rotation": ["variable.bb", "variable.seaxx", "variable.seaxx"],
-					"position": [0, "-variable.bb*0.08", 0]
-				}
+          "rotation": [
+            "variable.bb",
+            "variable.seaxx",
+            "variable.seaxx"
+          ],
+          "position": [
+            0,
+            "-variable.bb*0.08",
+            0
+          ]
+        },
+        "Muha2": {
+          "rotation": {
+            "0.0": [
+              "variable.x + variable.start + variable.sn",
+              "variable.seaxx",
+              "-variable.rot"
+            ],
+            "1.5": [
+              "variable.x + variable.start + variable.sn +2.5",
+              "variable.seaxx",
+              "-variable.rot"
+            ],
+            "3.0": [
+              "variable.x + variable.start + variable.sn",
+              "variable.seaxx",
+              "-variable.rot"
+            ]
+          },
+          "position": [
+            0,
+            "math.abs(variable.rot/20)",
+            "-math.abs(variable.rot/30)"
+          ]
+        },
+        "seamuww24": {
+          "rotation": [
+            "variable.flap * math.cos(0 -variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww25": {
+          "rotation": [
+            "variable.flap * math.cos(22 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww26": {
+          "rotation": [
+            "variable.flap * math.cos(50 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww27": {
+          "rotation": [
+            "variable.flap * math.cos(76 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww28": {
+          "rotation": [
+            "variable.flap * math.cos(100 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww29": {
+          "rotation": [
+            "variable.flap * math.cos(122 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww30": {
+          "rotation": [
+            "variable.flap * math.cos(142 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww31": {
+          "rotation": [
+            "variable.flap * math.cos(160 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww32": {
+          "rotation": [
+            "variable.flap * math.cos(176 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww33": {
+          "rotation": [
+            "variable.flap * math.cos(190 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww34": {
+          "rotation": [
+            "variable.flap * math.cos(202 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww35": {
+          "rotation": [
+            "variable.flap * math.cos(212 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww36": {
+          "rotation": [
+            "variable.flap * math.cos(220 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww37": {
+          "rotation": [
+            "variable.flap * math.cos(226 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww38": {
+          "rotation": [
+            "variable.flap * math.cos(230 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww39": {
+          "rotation": [
+            "variable.flap * math.cos(232 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww40": {
+          "rotation": [
+            "variable.flap * math.cos(232 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww41": {
+          "rotation": [
+            "variable.flap * math.cos(230 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww42": {
+          "rotation": [
+            "variable.flap * math.cos(226 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww43": {
+          "rotation": [
+            "variable.flap * math.cos(220 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww44": {
+          "rotation": [
+            "variable.flap * math.cos(212 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww45": {
+          "rotation": [
+            "variable.flap * math.cos(202 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww46": {
+          "rotation": [
+            "variable.flap * math.cos(190 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "Muha3": {
+          "rotation": {
+            "0.0": [
+              "variable.x + variable.start + variable.sn",
+              "variable.seaxx",
+              "-variable.rot"
+            ],
+            "1.5": [
+              "variable.x + variable.start + variable.sn +2.5",
+              "variable.seaxx",
+              "-variable.rot"
+            ],
+            "3.0": [
+              "variable.x + variable.start + variable.sn",
+              "variable.seaxx",
+              "-variable.rot"
+            ]
+          },
+          "position": [
+            0,
+            "math.abs(variable.rot/20)",
+            "-math.abs(variable.rot/30)"
+          ]
+        },
+        "seamuww47": {
+          "rotation": [
+            "variable.flap * math.cos(0 -variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww48": {
+          "rotation": [
+            "variable.flap * math.cos(22 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww49": {
+          "rotation": [
+            "variable.flap * math.cos(50 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww50": {
+          "rotation": [
+            "variable.flap * math.cos(76 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww51": {
+          "rotation": [
+            "variable.flap * math.cos(100 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww52": {
+          "rotation": [
+            "variable.flap * math.cos(122 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww53": {
+          "rotation": [
+            "variable.flap * math.cos(142 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww54": {
+          "rotation": [
+            "variable.flap * math.cos(160 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww55": {
+          "rotation": [
+            "variable.flap * math.cos(176 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww56": {
+          "rotation": [
+            "variable.flap * math.cos(190 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww57": {
+          "rotation": [
+            "variable.flap * math.cos(202 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww58": {
+          "rotation": [
+            "variable.flap * math.cos(212 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww59": {
+          "rotation": [
+            "variable.flap * math.cos(220 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww60": {
+          "rotation": [
+            "variable.flap * math.cos(226 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww61": {
+          "rotation": [
+            "variable.flap * math.cos(230 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww62": {
+          "rotation": [
+            "variable.flap * math.cos(232 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww63": {
+          "rotation": [
+            "variable.flap * math.cos(232 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww64": {
+          "rotation": [
+            "variable.flap * math.cos(230 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww65": {
+          "rotation": [
+            "variable.flap * math.cos(226 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww66": {
+          "rotation": [
+            "variable.flap * math.cos(220 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww67": {
+          "rotation": [
+            "variable.flap * math.cos(212 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww68": {
+          "rotation": [
+            "variable.flap * math.cos(202 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        },
+        "seamuww69": {
+          "rotation": [
+            "variable.flap * math.cos(190 - variable.flap2) * variable.xx",
+            "variable.seaxx",
+            "variable.seazz"
+          ]
+        }
 			}
 		}
 	}
