@@ -347,9 +347,9 @@
 				},
 				"Muhax": {
 					"rotation": {
-						"0.0": ["math.clamp(variable.x,-45,30) + variable.start + variable.sn", "variable.seaxx", "variable.rot"],
-						"1.5": ["math.clamp(variable.x,-45,30) + variable.start + variable.sn +2.5", "variable.seaxx", "variable.rot"],
-						"3.0": ["math.clamp(variable.x,-45,30) + variable.start + variable.sn", "variable.seaxx", "variable.rot"]
+						"0.0": ["math.clamp(variable.x,-45,30) + variable.start + variable.sn", "variable.seaxx", "-variable.rot"],
+						"1.5": ["math.clamp(variable.x,-45,30) + variable.start + variable.sn +2.5", "variable.seaxx", "-variable.rot"],
+						"3.0": ["math.clamp(variable.x,-45,30) + variable.start + variable.sn", "variable.seaxx", "-variable.rot"]
 					},
 					"position": [0, "math.abs(variable.rot/20)", "-math.abs(variable.rot/30)"]
 				},
