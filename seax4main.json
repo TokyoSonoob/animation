@@ -180,70 +180,70 @@
 						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
 					}
 				},
-				"Ad1x": {
+				"Adx1": {
 					"rotation": {
 						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
 						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
 						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
 					}
 				},
-				"Ad2x": {
+				"Adx2": {
 					"rotation": {
 						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
 						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
 						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
 					}
 				},
-				"Ad3x": {
+				"Adx3": {
 					"rotation": {
 						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
 						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
 						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
 					}
 				},
-				"Ad4x": {
+				"Adx4": {
 					"rotation": {
 						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
 						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
 						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
 					}
 				},
-				"Ad5x": {
+				"Adx5": {
 					"rotation": {
 						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
 						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
 						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
 					}
 				},
-				"Ad6x": {
+				"Adx6": {
 					"rotation": {
 						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
 						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
 						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
 					}
 				},
-				"Ad7x": {
+				"Adx7": {
 					"rotation": {
 						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
 						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
 						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
 					}
 				},
-				"Ad8x": {
+				"Adx8": {
 					"rotation": {
 						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
 						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
 						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
 					}
 				},
-				"Ad9x": {
+				"Adx9": {
 					"rotation": {
 						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
 						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
 						"3.0": ["variable.seaxx", "variable.seaxx", "variable.pom"]
 					}
 				},
-				"Ad10x": {
+				"Adx10": {
 					"rotation": {
 						"0.0": ["variable.seaxx", "variable.seaxx", "variable.pom"],
 						"1.5": ["variable.seaxx", "variable.seaxx", "variable.pom"],
@@ -257,70 +257,70 @@
 						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
 					}
 				},
-				"Re1x": {
+				"Rex1": {
 					"rotation": {
 						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
 						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
 						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
 					}
 				},
-				"Re2x": {
+				"Rex2": {
 					"rotation": {
 						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
 						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
 						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
 					}
 				},
-				"Re3x": {
+				"Rex3": {
 					"rotation": {
 						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
 						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
 						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
 					}
 				},
-				"Re4x": {
+				"Rex4": {
 					"rotation": {
 						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
 						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
 						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
 					}
 				},
-				"Re5x": {
+				"Rex5": {
 					"rotation": {
 						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
 						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
 						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
 					}
 				},
-				"Re6x": {
+				"Rex6": {
 					"rotation": {
 						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
 						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
 						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
 					}
 				},
-				"Re7x": {
+				"Rex7": {
 					"rotation": {
 						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
 						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
 						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
 					}
 				},
-				"Re8x": {
+				"Rex8": {
 					"rotation": {
 						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
 						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
 						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
 					}
 				},
-				"Re9x": {
+				"Rex9": {
 					"rotation": {
 						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
 						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
 						"3.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"]
 					}
 				},
-				"Re10x": {
+				"Rex10": {
 					"rotation": {
 						"0.0": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
 						"1.5": ["variable.seaxx", "variable.seaxx", "-variable.pom"],
